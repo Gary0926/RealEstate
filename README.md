@@ -13,7 +13,7 @@
 ![不動產資料供應系統](photo/不動產資料供應系統.png)
 
 ## 使用技術與套件
-**- 數據處理：** Numpy、Pandas
-**- 資料視覺化：** Matplotlib
-**- 模型建立：** scikit-learn、RandomForestRegressor、RandomizedSearchCV
+- **數據處理：** Numpy、Pandas
+- **資料視覺化：** Matplotlib
+- **模型建立：** scikit-learn、RandomForestRegressor、RandomizedSearchCV
 
