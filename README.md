@@ -16,4 +16,7 @@
 - **數據處理：** Numpy、Pandas、SciPy
 - **資料視覺化：** Matplotlib、seaborn
 - **模型建立：** scikit-learn
-
+- 
+## 視覺化呈現
+![hist](photo/hist.png)
+![pie](photo/pie.png)
